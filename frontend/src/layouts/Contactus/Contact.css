@@ -1,0 +1,11 @@
+.bg-header {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)),  url("../../Images/PublicImages/image-2.jpg") center center no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.div-center{
+    position: absolute;
+    top: 37%;
+    left: 37%;
+    transform: translate(0%, 37%);
+}
